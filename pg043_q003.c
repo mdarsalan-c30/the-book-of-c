@@ -9,6 +9,6 @@ int main (int argc, char* argv[] ){
   double inches = 0,cms=0;
   scanf("%lf",&inches);
   cms=2.54*inches;
-  printf("%.2f",cm);
+  printf("%.2f",cms);
   return 0;
 }
